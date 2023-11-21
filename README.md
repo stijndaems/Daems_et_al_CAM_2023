@@ -4,9 +4,9 @@ This respository contains scripts and data used to study proton metabolism in CA
 insert...
 # Instructions
 # Index
-  *Model_Construction     
+  * Model_Construction<br>
   
-  *ME_refinement_and_simulations    
+  * ME_refinement_and_simulations<br>  
 
      
-  *Sensitivity_analysis
+  * Sensitivity_analysis<br>
