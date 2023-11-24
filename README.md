@@ -1,8 +1,11 @@
-# Daems_et_al_CAM_2023
-This respository contains scripts and data used to study proton metabolism in CAM leaves
+# CAM metabolic proton homeostasis - scripts
+This respository contains data and scripts used to study proton metabolism in mature CAM leaves
 # Dependencies
-insert...
+libsbml version 5.12.1<br>
+cobrapy version 0.5.4<br>
 # Instructions
+1. Install python version 2, libsbml and cobrapy<br>
+2. ...<br>
 # Index
   * Model_Construction: generate 12-phase model from PlantCoreMetabolism model, integrate 4 CAM phases of gas exchange, add metabolite accumulation constraints<br>
   
