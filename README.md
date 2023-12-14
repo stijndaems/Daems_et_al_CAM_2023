@@ -9,9 +9,7 @@ cobrapy version 0.5.4<br>
 3. Open a console (mac), terminal (linux) or command prompt (windows)<br>
 4. Run scripts<br>
 # Index
-  * Model_Construction: generate 12-phase model from PlantCoreMetabolism model, integrate 4 CAM phases of gas exchange, add metabolite accumulation constraints<br>
-  
-  * ME_refinement_and_simulations: refine the model for a malic enzyme CAM leaf and run simulations<br>  
-
-     
-  * Sensitivity_analysis: Vc/Vo, maintenance cost, PEPCK, FVA<br>
+  * Model_construction: generate 12-phase model from PlantCoreMetabolism model, integrate 4 CAM phases of gas exchange, add metabolite accumulation constraints<br>
+  * ME_refinement_and_simulations: refine the 12-phase model for a malic enzyme-type CAM leaf mesophyll cell and run simulations<br>
+  * Sensitivity_analysis: simulate the impact of PEPCK as main decarboxylase, varying Rubisco carboxylase/oxygenase (Vc/Vo) ratios, increased and decreased maintenance cost on key proton reactions + FVA<br>
+  * Functions.py: a python module containing functions used in scripts Model_construction, ME_refinement_and_simulations and Sensitivity_analysis<br>
