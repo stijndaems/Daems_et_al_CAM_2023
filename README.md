@@ -5,7 +5,9 @@ libsbml version 5.12.1<br>
 cobrapy version 0.5.4<br>
 # Instructions
 1. Install python version 2, libsbml and cobrapy<br>
-2. ...<br>
+2. Go to folder containing scripts<br>
+3. Open a console (mac), terminal (linux) or command prompt (windows)<br>
+4. Run scripts<br>
 # Index
   * Model_Construction: generate 12-phase model from PlantCoreMetabolism model, integrate 4 CAM phases of gas exchange, add metabolite accumulation constraints<br>
   
