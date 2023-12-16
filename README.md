@@ -14,5 +14,5 @@ cobrapy version 0.5.4<br>
   * Sensitivity_analysis: starting from CAM_12P_ME_Model.xml, simulate the impact of PEPCK as main decarboxylase, varying Rubisco carboxylase/oxygenase (Vc/Vo) ratios, increased and decreased maintenance cost on key proton reactions + run FVA<br>
   * Functions.py: a python module containing functions used in scripts Model_construction, ME_refinement_and_simulations and Sensitivity_analysis<br>
   * GasExchange.xlsx: experimental data of diel CO2 exchange reported in Phalaenopsis<br>
-  * ProcessedData_v2.xlsx: experimental diel course metabolite data reported in Phalaenopsis used to apply metabolite accumulation constraints<br>
+  * ExpMetaboliteData.xlsx: experimental diel course metabolite data reported in Phalaenopsis used to apply metabolite accumulation constraints<br>
   * PlantCoreMetabolism_v2_0_0.xml: a proton balanced model of primary metabolism in plant cells<br>
