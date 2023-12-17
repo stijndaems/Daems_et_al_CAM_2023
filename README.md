@@ -1,5 +1,5 @@
 # CAM metabolic proton homeostasis - scripts
-This respository contains data and scripts used to study proton metabolism in mature CAM leaves
+This repository contains data and scripts used to study proton metabolism in mature CAM leaves
 # Dependencies
 libsbml version 5.12.1<br>
 cobrapy version 0.5.4<br>
