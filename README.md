@@ -11,7 +11,7 @@ cobrapy version 0.5.4<br>
 # Index
   * Model_construction: generate 12-phase model from PlantCoreMetabolism model, integrate 4 CAM phases of gas exchange, apply metabolite accumulation constraints, plot figures that are used in Supplemental data, write model to .xml (CAM_12PModel.xml)<br>
   * ME_refinement_and_simulations: starting from CAM_12PModel.xml, refine the 12-phase model for a malic enzyme-type CAM leaf mesophyll cell by applying additional constraints as described in the paper, write model to .xml (CAM_12P_ME_Model.xml), and run simulations as reported in the manuscript<br>
-  * Sensitivity_analysis: starting from CAM_12P_ME_Model.xml, simulate the impact of varying Rubisco carboxylase/oxygenase (Vc/Vo) ratios, increased and decreased maintenance cost, NAD-ME:NADP-ME and cPPDK:pPPDK ratios, and PEPCK as main decarboxylase on key proton reactions + run FVA<br>
+  * Sensitivity_analysis: starting from CAM_12P_ME_Model.xml, simulate the impact of varying Rubisco carboxylase/oxygenase (Vc/Vo) ratios, increased and decreased maintenance cost, NAD-ME:NADP-ME and cPPDK:pPPDK ratios, PEPCK as main decarboxylase, ME and PEPCK co-decarboxylation, type of storage carbohydrate, and (iso)citrate accumulation on key proton reactions + run FVA<br>
   * Functions: notebook containing functions used in scripts Model_construction, ME_refinement_and_simulations and Sensitivity_analysis<br>
   * GasExchange.xlsx: experimental data of diel CO2 exchange reported for Phalaenopsis<br>
   * ExpMetaboliteData.xlsx: experimental diel course metabolite data reported for Phalaenopsis used to apply metabolite accumulation constraints<br>
